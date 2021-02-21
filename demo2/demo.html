@@ -95,7 +95,7 @@ if(window.XMLHttpRequest){
   }
 else{// code for IE6, IE5
 xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
-xmlhttp.open("GET","https://tenapi.cn/video/?url="+v,false);
+xmlhttp.open("GET","这里填写你的接口地址例如：https://domain.com/video/?url="+v,false);
 xmlhttp.send();
 var jsonObj = JSON.parse(xmlhttp.responseText); 
 console.log(jsonObj);
