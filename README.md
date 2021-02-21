@@ -1,5 +1,7 @@
 # Video_spider
 
+https://video.pages.dev/
+
 新手小白的练手项目 随意Star
 
 | 平台 | 状态| 平台 | 状态| 平台 | 状态|
@@ -71,4 +73,7 @@ https://lab.5ime.cn/video/
 本仓库只为学习研究，如涉及侵犯个人或者团体利益，请与我取得联系，我将主动删除一切相关资料，谢谢！
 
 ## BlueSkyXN魔改日志
+
 扒了作者主站，整理成HTML，统计代码就保留吧，自取
+
+https://video.pages.dev/
